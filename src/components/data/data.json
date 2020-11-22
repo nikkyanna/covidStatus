@@ -1,0 +1,317 @@
+[
+  {
+    "State": "Andaman & Nicobar",
+    "Confirmed":4617,
+    "Active":4408,
+    "Recovered":148,
+    "Death":61,
+    "lat":11.7400867,
+    "long":92.6586401
+  },
+  {
+    "State":"Andhra Pradesh",
+     "Confirmed":861092,
+    "Active":839395,
+    "Recovered":14770,
+    "Death":6927,
+    "lat": 16,
+    "long": 80
+  },
+  {
+    "State":"Arunachal Pradesh",
+     "Confirmed":16001,
+    "Active":14870,
+    "Recovered":1082,
+    "Death":49,
+    "lat": 28,
+    "long": 95
+  },
+   {
+    "State":"Assam",
+     "Confirmed":211427,
+    "Active":207219,
+    "Recovered":3232,
+    "Death":973,
+    "lat": 26.2006043,
+    "long": 92.9375739
+  },
+   {
+    "State":"Bihar",
+     "Confirmed":230247,
+    "Active":223615,
+    "Recovered":5415,
+    "Death":1216,
+    "lat": 25,
+    "long": 85
+  },
+  {
+    "State":"Chandigarh",
+     "Confirmed":16591,
+    "Active":15198,
+    "Recovered":1135,
+    "Death":258,
+    "lat": 30.44,
+    "long": 76.47
+  },
+  {
+      "State":"Chhattisgarh",
+       "Confirmed":219404,
+    "Active":196896,
+    "Recovered":19817,
+    "Death":2691,
+    "lat": 30.14,
+    "long": 76.47
+  },
+  {
+    "State":"Dadra & Nagar Haveli",
+     "Confirmed":3312,
+    "Active":3239,
+    "Recovered":42,
+    "Death":2,
+    "lat": 30.42,
+    "long": 76.54
+  },
+  {
+    "State":"Daman & Diu",
+     "Confirmed":3312,
+    "Active":3239,
+    "Recovered":42,
+    "Death":2,
+    "lat": 20.25,
+    "long": 72.53
+  },
+  {
+    "State":"Delhi",
+     "Confirmed":523117,
+    "Active":475106,
+    "Recovered":39741,
+    "Death":8270,
+    "lat": 28.38,
+    "long": 77.12
+  },
+  {
+    "State":"Goa",
+     "Confirmed":46748,
+    "Active":44812,
+    "Recovered":1261,
+    "Death":675,
+    "lat": 28.38,
+    "long": 72.12
+  },
+  {
+    "State":"Gujarat",
+     "Confirmed":195917,
+    "Active":178886,
+    "Recovered":13185,
+    "Death":3846,
+    "lat": 23.00,
+    "long": 72.00
+  },
+  {
+     "State":"Haryana",
+      "Confirmed":215021,
+    "Active":192533,
+    "Recovered":20325,
+    "Death":2163,
+    "lat": 30.30,
+    "long": 74.60
+  },
+  {
+    "State":"Meghalaya",
+     "Confirmed":11152,
+    "Active":10158,
+    "Recovered":888,
+    "Death":106,
+    "lat": 25.30,
+    "long": 91.00
+  },
+  {
+    "State":"Mizoram",
+     "Confirmed":3607,
+    "Active":3122,
+    "Recovered":480,
+    "Death":5,
+    "lat": 23.30,
+            "long": 20.52
+  },
+   {
+    "State":"Nagaland",
+     "Confirmed":10608,
+    "Active":9104,
+    "Recovered":1340,
+    "Death":56,
+    "lat": 26.00,
+    "long": 94.20
+  },
+  {
+    "State":"Orissa",
+     "Confirmed":313323,
+    "Active":3030897,
+    "Recovered":7748,
+    "Death":1678,
+    "lat": 26.00,
+    "long": 94.20
+  },
+  {
+    "State":"Pondicherry",
+     "Confirmed":36648,
+    "Active":35437,
+    "Recovered":602,
+    "Death":609,
+    "lat": 11.56,
+            "long": 79.53
+  },
+  {
+    "State":"Punjab",
+     "Confirmed":145667,
+    "Active":134511,
+    "Recovered":6561,
+    "Death":4595,
+    "lat": 30.4,
+            "long": 75.5
+  } ,
+  {
+    "State":"Rajasthan",
+     "Confirmed":2626533,
+    "Active":249157,
+    "Recovered":12070,
+    "Death":1426,
+    "lat": 27.00,
+    "long": 74.00
+  },
+   {
+    "State":"Sikkim",
+     "Confirmed":4632,
+    "Active":4186,
+    "Recovered":267,
+    "Death":96,
+    "lat": 27.3,
+    "long": 88.3
+  },
+   {
+    "State":"Tamilnadu",
+     "Confirmed":768340,
+    "Active":743838,
+    "Recovered":12916,
+    "Death":11586,
+    "lat": 11.00,
+    "long": 78.00
+  },
+   {
+    "State":"Tripura",
+     "Confirmed":32364,
+    "Active":31061,
+    "Recovered":917,
+    "Death":363,
+    "lat": 23.45,
+    "long": 91.30
+  },
+   {
+    "State":"Uttar Pradesh",
+     "Confirmed":524223,
+    "Active":493228,
+    "Recovered":23471,
+    "Death":7524,
+    "lat": 27.40,
+    "long": 80.00
+  },
+   {
+    "State":"Uttarakhand",
+     "Confirmed":70790,
+    "Active":64851,
+    "Recovered":4166,
+    "Death":1146,
+    "lat": 30.15,
+    "long": 79.15
+  },
+  {
+    "State":"West Bengal",
+     "Confirmed":452770,
+    "Active":419403,
+    "Recovered":25391,
+    "Death":7976,
+    "lat": 23.00,
+    "long": 87.00
+  }, 
+  {
+    "State":"Himachal Pradesh",
+     "Confirmed":32785,
+    "Active":25432,
+    "Recovered":6829,
+    "Death":491,
+    "lat": 32.29,
+    "long": 75.10
+  },
+   {
+    "State":"Jammu & Kashmir",
+     "Confirmed":105984,
+    "Active":98640,
+    "Recovered":5720,
+    "Death":1624,
+    "lat": 32.44,
+    "long": 74.54
+  },
+   {
+    "State":"Jharkhand",
+     "Confirmed":107332,
+    "Active":103957,
+    "Recovered":2430,
+    "Death":945,
+    "lat": 23.45,
+    "long": 85.30
+  },
+   {
+    "State":"Karnataka",
+     "Confirmed":871342,
+    "Active":834968,
+    "Recovered":24714,
+    "Death":11641,
+    "lat": 15.00,
+    "long": 75.00
+  },
+   {
+    "State":"Kerala",
+     "Confirmed":557442,
+    "Active":488437,
+    "Recovered":66864,
+    "Death":2023,
+    "lat": 10.00,
+    "long": 76.25
+  },
+   {
+    "State":"Lakshadweep",
+     "Confirmed":7866,
+    "Active":6856,
+    "Recovered":912,
+    "Death":98,
+    "lat": 10.00,
+    "long": 73.00
+  },
+   {
+    "State":"Madhya Pradesh",
+     "Confirmed":191022,
+    "Active":176725,
+    "Recovered":11151,
+    "Death":3146,
+    "lat": 23.30,
+    "long": 80.00
+  },
+   {
+    "State":"Maharashtra",
+     "Confirmed":1774455,
+    "Active":1647004,
+    "Recovered":79873,
+    "Death":46573,
+    "lat": 20.00,
+    "long": 76.00
+  },
+   {
+    "State":"Manipur",
+    "Confirmed":22778,
+    "Active":19603,
+    "Recovered":2944,
+    "Death":231,
+    "lat": 24.44,
+    "long": 93.58
+  }
+]

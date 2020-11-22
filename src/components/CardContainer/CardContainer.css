@@ -1,0 +1,47 @@
+@import "~antd/dist/antd.css";
+
+.cardContainer .ant-card-body{
+    padding: 20px;
+    text-align: center;
+}
+
+.ant-card-bordered{
+    border: 1px solid var(--color-grey-dark);
+    border-radius: 10px;
+    margin: 0px 0px 20px 0px;
+}
+
+.cardContainer{
+    width: 100%;
+}
+
+.cardContainer .cardBoxes{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+
+.cardContainer .item{
+    min-width: 150px;
+    margin-right: 20px;
+}
+
+@media only screen and (max-width: 1020px) {
+    .cardContainer .cardBoxes{
+        display: flex;
+        flex-wrap: wrap;
+        margin-bottom: 20px;
+    }
+    .cardContainer .item{
+       margin-bottom: 0px;
+    }
+  }
+
+.cardContainer .title{
+    font-weight: 500;
+    font-size: 16px;
+}
+.cardContainer .content{
+    font-weight: 500;
+    font-size: 16px;
+    color: var(--color-primary);
+}
